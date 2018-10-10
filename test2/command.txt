@@ -1,1 +1,17 @@
 1. git clone https://github.com/Jaydankai/gittest2526.git
+2. Cp -r test2 test2526
+3. Rm -r test2
+4. Cd test2526a
+5. Git add test2
+6. git commit -m "First commit"
+7. Git push -r origin master
+8. touch repo.txt
+9. Nano repo.txt
+10. Git add repo.txt
+11.git commit -m "added repo.txt"
+12. git push -u origin master
+13. Touch 
+14. Nano index.html
+15. Git add index.html
+16. Git commit -m "added index.html"
+17. Git push -u origin master
